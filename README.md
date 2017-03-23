@@ -1,2 +1,2 @@
 # SpringMvc4ThymeLeafWlogic
-Spring MVC4 ThymeLeaf WebLogic 12c
+Spring MVC4 ThymeLeaf3 WebLogic 12c
